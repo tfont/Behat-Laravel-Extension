@@ -6,6 +6,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Travis van der Font",
+            "email": "travis.font@gmail.com"
+        },
+        {
             "name": "JeffreyWay",
             "email": "jeffrey@laracasts.com"
         }
