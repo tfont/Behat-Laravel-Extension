@@ -1,7 +1,7 @@
 {
     "name": "tfont/behat-laravel-extension",
     "type": "behat-extension",
-    "description": "Laravel extension for Behat",
+    "description": "Laravel 8 extension for Behat",
     "keywords": ["laravel", "behat", "extension", "bdd"],
     "license": "MIT",
     "authors": [
